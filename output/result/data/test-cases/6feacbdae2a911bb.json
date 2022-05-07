@@ -1,0 +1,77 @@
+{
+  "uid" : "6feacbdae2a911bb",
+  "name" : "test04标题",
+  "fullName" : "test_case.test1.Test_set#test_04",
+  "historyId" : "39c2d5ec7c1b5c4e73e259ef6dd50165",
+  "time" : {
+    "start" : 1651904973544,
+    "stop" : 1651904973544,
+    "duration" : 0
+  },
+  "description" : "用例4描述",
+  "descriptionHtml" : "<p>用例4描述</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试模块"
+  }, {
+    "name" : "story",
+    "value" : "test04-story"
+  }, {
+    "name" : "epic",
+    "value" : "测试标签"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_set"
+  }, {
+    "name" : "host",
+    "value" : "dingjieMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "62709-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "b",
+    "value" : "4"
+  }, {
+    "name" : "c",
+    "value" : "5"
+  } ],
+  "links" : [ {
+    "name" : "bug",
+    "url" : "www.baidu.com",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6feacbdae2a911bb.json",
+  "parameterValues" : [ "4", "5" ]
+}

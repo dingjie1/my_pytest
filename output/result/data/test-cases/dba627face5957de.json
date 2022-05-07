@@ -1,0 +1,80 @@
+{
+  "uid" : "dba627face5957de",
+  "name" : "test_08",
+  "fullName" : "test_case.test1.Test_set#test_08",
+  "historyId" : "53825abaffb7ccb403aba3e12c45bcd7",
+  "time" : {
+    "start" : 1651904973573,
+    "stop" : 1651904973574,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "data4",
+    "time" : {
+      "start" : 1651904973572,
+      "stop" : 1651904973572,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试模块"
+  }, {
+    "name" : "epic",
+    "value" : "测试标签"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('data4')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_set"
+  }, {
+    "name" : "host",
+    "value" : "dingjieMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "62709-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('data4')" ]
+  },
+  "source" : "dba627face5957de.json",
+  "parameterValues" : [ ]
+}

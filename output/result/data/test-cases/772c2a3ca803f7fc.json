@@ -1,0 +1,75 @@
+{
+  "uid" : "772c2a3ca803f7fc",
+  "name" : "test03标题",
+  "fullName" : "test_case.test1.Test_set#test_03",
+  "historyId" : "14f5c8b393a6b6ccadd23c8c17dd663c",
+  "time" : {
+    "start" : 1651904973530,
+    "stop" : 1651904973530,
+    "duration" : 0
+  },
+  "description" : "用例3描述",
+  "descriptionHtml" : "<p>用例3描述</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('/Users/jieding/PycharmProjects/my_pytest/test_case/test1.py', 28, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试模块"
+  }, {
+    "name" : "story",
+    "value" : "test03-story"
+  }, {
+    "name" : "epic",
+    "value" : "测试标签"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_set"
+  }, {
+    "name" : "host",
+    "value" : "dingjieMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "62709-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip" ]
+  },
+  "source" : "772c2a3ca803f7fc.json",
+  "parameterValues" : [ "1" ]
+}
